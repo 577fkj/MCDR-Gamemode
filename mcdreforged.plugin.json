@@ -1,0 +1,17 @@
+{
+	"id": "gamemode",
+	"version": "1.2.2",
+	"name": "Gamemode",
+	"description": {
+		"en_us": "Advanced freecam",
+		"zh_cn": "高级灵魂出窍"
+	},
+	"author": [
+		"57767598"
+	],
+	"entrypoint": "gamemode.entry",
+	"link": "https://github.com/577fkj/MCDR-Gamemode",
+	"resources": [
+		"LICENSE"
+	]
+}
